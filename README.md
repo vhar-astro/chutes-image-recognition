@@ -9,8 +9,7 @@ This is a Streamlit application to interact with Chutes.ai vision models.
     ```bash
     pip install -r requirements.txt
     ```
-    *(Note: `requirements.txt` is not provided, but you need `streamlit`, `requests`, `python-dotenv`, `Pillow`)*
-    
+  
     Alternatively, if you followed the CLI setup:
     ```bash
     python3 -m venv .venv
